@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-
+// for github
     Button button;
    static int DIALOG_ID = 1;
 int hour_x;
